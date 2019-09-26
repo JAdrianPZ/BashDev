@@ -1,7 +1,6 @@
 
 #!/bin/bash
-echo "$[1 + 1]"
+expr 3 + 3
 rm file.txt
-echo "$[2 * 2]"
-
+expr 5 - 2
 
